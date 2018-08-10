@@ -263,6 +263,7 @@ The variables are listed as they appear in the data file.
 | --- | --- |
 | `[.0000391, .03168843]` | Numeric |
 
+  - **Note**: This is only available for presidential election years.
 
 ----------------
 
