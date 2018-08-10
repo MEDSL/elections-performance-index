@@ -31,7 +31,7 @@ The variables are listed as they appear in the data file.
  - **Source**: MIT Election and Data Science Lab coding of state policies
  - **Coding**: 
 
-|:--|:--|
+|--|--|
 | `1` | yes |
 | `0` | no |
 
