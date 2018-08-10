@@ -31,7 +31,8 @@ The variables are listed as they appear in the data file.
  - **Source**: MIT Election and Data Science Lab coding of state policies
  - **Coding**: 
 
-|:--|:--|
+| Value | Description |
+| --- | --- |
 | `1` | yes |
 | `0` | no |
 
@@ -42,7 +43,8 @@ The variables are listed as they appear in the data file.
  - **Source**: MIT Election and Data Science Lab coding of state policies
  - **Coding**: 
 
-|:--|:--|
+| Value | Description |
+| --- | --- |
 | `1` | yes |
 | `0` | no |
 
@@ -54,7 +56,8 @@ The variables are listed as they appear in the data file.
 - **Source**: MIT Election and Data Science Lab coding of state policies
 - **Coding**  
 
-|:--|:--|
+| Value | Description |
+| --- | --- |
 | `1` | yes |
 | `0` | no |
 
@@ -68,7 +71,8 @@ The variables are listed as they appear in the data file.
   -  **Source**: MIT Election and Data Science Lab coding of state policies
   - **Coding:**  
 
-|:--|:--|
+| Value | Description |
+| --- | --- |
 | `1` | yes |
 | `0` | no |
 
@@ -81,7 +85,8 @@ The variables are listed as they appear in the data file.
   - **Source**: MIT Election and Data Science Lab coding of state policies
   - **Coding:**  
 
-|:--|:--|
+| Value | Description |
+| --- | --- |
 | `1` | yes |
 | `0` | no |
 
@@ -94,8 +99,9 @@ The variables are listed as they appear in the data file.
   - **Source:** [EAC Election Administration and Voting Survey](https://www.eac.gov/research-and-data/election-administration-voting-survey/)
   - **Coding:**  
 
-|:--|:--|
-| Numeric | [`0, .67197359`] |
+| Value | Description |
+| --- | --- |
+| `[0, .67197359]` | Numeric |
 
 
 ----------------
@@ -105,8 +111,9 @@ The variables are listed as they appear in the data file.
   - **Source:** [EAC Election Administration and Voting Survey](https://www.eac.gov/research-and-data/election-administration-voting-survey/)
   - **Coding:**  
 
-|:--|:--|
-| Numeric | `[.00001733, .13130152]` |
+| Value | Description |
+| --- | --- |
+| `[.00001733, .13130152]` | Numeric |
 
 
 ----------------
@@ -116,8 +123,9 @@ The variables are listed as they appear in the data file.
   - **Source:** [EAC Election Administration and Voting Survey](https://www.eac.gov/research-and-data/election-administration-voting-survey/)
   - **Coding:**  
 
-|:--|:--|
-| Numeric | `[0, .01916237]` |
+| Value | Description |
+| --- | --- |
+| `[0, .01916237]` | Numeric |
 
 
 ----------------
@@ -127,8 +135,9 @@ The variables are listed as they appear in the data file.
   - **Source:** [EAC Election Administration and Voting Survey](https://www.eac.gov/research-and-data/election-administration-voting-survey/)
   - **Coding:**  
 
-|:--|:--|
-| Numeric | `[0, .01335678]` |
+| Value | Description |
+| --- | --- |
+| `[0, .01335678]` | Numeric |
 
 
 ----------------
@@ -138,8 +147,9 @@ The variables are listed as they appear in the data file.
   - **Source:** [EAC Election Administration and Voting Survey](https://www.eac.gov/research-and-data/election-administration-voting-survey/)
   - **Coding:**  
 
-|:--|:--|
-| Numeric | `[0, .51564848]` |
+| Value | Description |
+| --- | --- |
+| `[0, .51564848]` | Numeric |
 
 
 ----------------
@@ -149,8 +159,9 @@ The variables are listed as they appear in the data file.
   - **Source:** [EAC Election Administration and Voting Survey](https://www.eac.gov/research-and-data/election-administration-voting-survey/)
   - **Coding:**  
 
-|:--|:--|
-| Numeric | `[0, .25336698]` |
+| Value | Description |
+| --- | --- |
+| `[0, .25336698]` | Numeric |
 
 
 ----------------
@@ -160,8 +171,9 @@ The variables are listed as they appear in the data file.
   - **Source:** [EAC Election Administration and Voting Survey](https://www.eac.gov/research-and-data/election-administration-voting-survey/)
   - **Coding:**  
 
-|:--|:--|
-| Numeric | `[.01302932, .88048917]` |
+| Value | Description |
+| --- | --- |
+| `[.01302932, .88048917]` | Numeric |
 
 
 ----------------
@@ -171,8 +183,9 @@ The variables are listed as they appear in the data file.
   - **Source:** [EAC Election Administration and Voting Survey](https://www.eac.gov/research-and-data/election-administration-voting-survey/)
   - **Coding:**  
 
-|:--|:--|
-| Numeric | `[0, 1]` |
+| Value | Description |
+| --- | --- |
+| `[0, 1]` | Numeric |
 
 
 ----------------
@@ -182,7 +195,8 @@ The variables are listed as they appear in the data file.
   - **Source:** MIT Election and Data Science Lab coding of state policies
   - **Coding:** Post-election audit required
 
-|:--|:--|
+| Value | Description |
+| --- | --- |
 | `1` | yes |
 | `0` | no |
 
@@ -194,8 +208,9 @@ The variables are listed as they appear in the data file.
   - **Source:** [Voting and Registration Supplement to the Current Population Survey](https://www.census.gov/topics/public-sector/voting/data/tables.html)
   - **Coding:**  
 
-|:--|:--|
-| Numeric | `[.03416906, .26005191]` |
+| Value | Description |
+| --- | --- |
+| `[.03416906, .26005191]` | Numeric |
 
 
 ----------------
@@ -205,8 +220,9 @@ The variables are listed as they appear in the data file.
   - **Source:** [Voting and Registration Supplement to the Current Population Survey](https://www.census.gov/topics/public-sector/voting/data/tables.html)
   - **Coding:**  
 
-|:--|:--|
-| Numeric | `[.00745624, .13933808]` |
+| Value | Description |
+| --- | --- |
+| `[.00745624, .13933808]` | Numeric |
 
 
 ----------------
@@ -216,7 +232,8 @@ The variables are listed as they appear in the data file.
   - **Source:** MIT Election and Data Science Lab coding of state policies
   - **Coding:**  
 
-|:--|:--|
+| Value | Description |
+| --- | --- |
 | `1` | yes |
 | `0` | no |
 
@@ -228,8 +245,9 @@ The variables are listed as they appear in the data file.
   - **Source:** [Survey of the Performance of American Elections](https://dataverse.harvard.edu/dataverse/SPAE)
   - **Coding:**  
 
-|:--|:--|
-| Numeric | `[.406409, 61.502129]` |
+| Value | Description |
+| --- | --- |
+| `[.406409, 61.502129]` | Numeric |
 
   - **Note**: This was not measured in 2010.
 
@@ -241,8 +259,9 @@ The variables are listed as they appear in the data file.
   - **Source:** MIT Election Data and Science Lab
   - **Coding:**  
 
-|:--|:--|
-| Numeric | `[.0000391, .03168843]` |
+| Value | Description |
+| --- | --- |
+| `[.0000391, .03168843]` | Numeric |
 
 
 ----------------
@@ -253,8 +272,9 @@ The variables are listed as they appear in the data file.
   - **Source:** Voting and Registration Supplement to the Current Population Survey
   - **Coding:**  
 
-|:--|:--|
-| Numeric | `[.64003599, .93633616]` |
+| Value | Description |
+| --- | --- |
+| `[.64003599, .93633616]` | Numeric |
 
 
 ----------------
@@ -264,8 +284,9 @@ The variables are listed as they appear in the data file.
   - **Source:** [U.S. Elections Project](http://www.electproject.org)
   - **Coding:**  
 
-|:--|:--|
-| Numeric | `[.28341606, .78102571]` |
+| Value | Description |
+| --- | --- |
+| `[.28341606, .78102571]` | Numeric |
 
 
 ----------------
