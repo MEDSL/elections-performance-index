@@ -1,52 +1,52 @@
-state_abbv,state_fips,index_2016,indicator_count_2016
-VT,Vermont,.86326855,17
-MN,Minnesota,.84371173,15
-DE,Delaware,.84311688,17
-ND,North Dakota,.83270234,12
-NV,Nevada,.81619424,17
-DC,District of Columbia,.81525928,17
-IL,Illinois,.81344444,17
-MA,Massachusetts,.81170368,17
-WI,Wisconsin,.80651158,13
-CT,Connecticut,.80436176,16
-NE,Nebraska,.80285889,17
-PA,Pennsylvania,.79521364,16
-VA,Virginia,.79474133,17
-SC,South Carolina,.79336566,16
-IA,Iowa,.79260057,17
-MO,Missouri,.79024297,16
-AK,Alaska,.77918851,17
-MD,Maryland,.77370369,17
-WV,West Virginia,.7714982,17
-WA,Washington,.76838785,17
-OH,Ohio,.76592559,17
-LA,Louisiana,.76461178,17
-MI,Michigan,.76365763,17
-CO,Colorado,.76362485,17
-MT,Montana,.75395501,17
-IN,Indiana,.75276929,17
-NC,North Carolina,.73591655,17
-RI,Rhode Island,.73590487,16
-NM,New Mexico,.73555678,14
-WY,Wyoming,.72989589,16
-FL,Florida,.72521979,17
-OR,Oregon,.72225845,16
-NH,New Hampshire,.72158873,15
-GA,Georgia,.71647507,17
-AZ,Arizona,.71207398,16
-ME,Maine,.70675492,17
-TX,Texas,.70221221,16
-UT,Utah,.69549203,17
-HI,Hawaii,.69456524,16
-NJ,New Jersey,.69181466,17
-TN,Tennessee,.68012995,17
-NY,New York,.67718554,16
-MS,Mississippi,.6684432,16
-KY,Kentucky,.6683836,17
-SD,South Dakota,.66800588,16
-AL,Alabama,.65816289,14
-AR,Arkansas,.64600784,16
-KS,Kansas,.64069694,16
-CA,California,.62323499,17
-OK,Oklahoma,.5956046,16
-ID,Idaho,.57651687,14
+state_abbv,state_fips,index_2016,rank_2016,indicator_count_2016
+VT,Vermont,.86326855,1,17
+MN,Minnesota,.84371173,2,15
+DE,Delaware,.84311688,3,17
+ND,North Dakota,.83270234,4,12
+NV,Nevada,.81619424,5,17
+DC,District of Columbia,.81525928,6,17
+IL,Illinois,.81344444,7,17
+MA,Massachusetts,.81170368,8,17
+WI,Wisconsin,.80651158,9,13
+CT,Connecticut,.80436176,10,16
+NE,Nebraska,.80285889,11,17
+PA,Pennsylvania,.79521364,12,16
+VA,Virginia,.79474133,13,17
+SC,South Carolina,.79336566,14,16
+IA,Iowa,.79260057,15,17
+MO,Missouri,.79024297,16,16
+AK,Alaska,.77918851,17,17
+MD,Maryland,.77370369,18,17
+WV,West Virginia,.7714982,19,17
+WA,Washington,.76838785,20,17
+OH,Ohio,.76592559,21,17
+LA,Louisiana,.76461178,22,17
+MI,Michigan,.76365763,23,17
+CO,Colorado,.76362485,24,17
+MT,Montana,.75395501,25,17
+IN,Indiana,.75276929,26,17
+NC,North Carolina,.73591655,27,17
+RI,Rhode Island,.73590487,28,16
+NM,New Mexico,.73555678,29,14
+WY,Wyoming,.72989589,30,16
+FL,Florida,.72521979,31,17
+OR,Oregon,.72225845,32,16
+NH,New Hampshire,.72158873,33,15
+GA,Georgia,.71647507,34,17
+AZ,Arizona,.71207398,35,16
+ME,Maine,.70675492,36,17
+TX,Texas,.70221221,37,16
+UT,Utah,.69549203,38,17
+HI,Hawaii,.69456524,39,16
+NJ,New Jersey,.69181466,40,17
+TN,Tennessee,.68012995,41,17
+NY,New York,.67718554,42,16
+MS,Mississippi,.6684432,43,16
+KY,Kentucky,.6683836,44,17
+SD,South Dakota,.66800588,45,16
+AL,Alabama,.65816289,46,14
+AR,Arkansas,.64600784,47,16
+KS,Kansas,.64069694,48,16
+CA,California,.62323499,49,17
+OK,Oklahoma,.60225457,50,17
+ID,Idaho,.57651687,51,14
