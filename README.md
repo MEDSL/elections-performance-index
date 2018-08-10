@@ -1,5 +1,10 @@
+---
+title: README for using the Elections Performance Index data
+author: Cameron Wimpy
+date: August 10, 2018
+---
 
-# ReadMe for using the Elections Performance Index data
+# README for using the Elections Performance Index data
 
 The data file `epi_indicators-all_years` contains all of the non-normalized indicator scores for the [Elections Performance Index](https://elections.mit.edu/) (EPI). These scores are produced through a large data collection and cleaning effort as part of the overall development of the EPI. More information on that process can be found in the [EPI Methodology Report](https://elections.mit.edu/2016-epi-methodology.pdf). 
 
