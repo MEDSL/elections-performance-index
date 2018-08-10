@@ -33,7 +33,6 @@ The variables are listed as they appear in the data file.
 
 | Value | Description |
 | --- | --- |
-|--|--|
 | `1` | yes |
 | `0` | no |
 
@@ -270,7 +269,7 @@ The variables are listed as they appear in the data file.
 
 ### `pct_reg_of_vep_vrs`
   - **Description**: Residual vote rate
-  - **Source:** Voting and Registration Supplement to the Current Population Survey
+  - **Source:** [Voting and Registration Supplement to the Current Population Survey](https://www.census.gov/topics/public-sector/voting/data/tables.html)
   - **Coding:**  
 
 | Value | Description |
