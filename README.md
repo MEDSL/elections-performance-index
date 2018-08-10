@@ -31,12 +31,9 @@ The variables are listed as they appear in the data file.
  - **Source**: MIT Election and Data Science Lab coding of state policies
  - **Coding**: 
 
-<<<<<<< HEAD
 | Value | Description |
 | --- | --- |
-=======
 |--|--|
->>>>>>> ae52bf863de1a22e802c3b01c6d1b5a97df7591b
 | `1` | yes |
 | `0` | no |
 
