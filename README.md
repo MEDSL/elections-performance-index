@@ -245,15 +245,15 @@ The variables are listed as they appear in the data file.
 ----------------
 
 ### `wait`
-  - **Description**: Wait time from SPAE
-  - **Source:** [Survey of the Performance of American Elections](https://dataverse.harvard.edu/dataverse/SPAE)
+  - **Description**: Wait time from SPAE and CCES
+  - **Source:** [Survey of the Performance of American Elections](https://dataverse.harvard.edu/dataverse/SPAE), [Cooperative Congressional Election Study](https://dataverse.harvard.edu/dataverse/cces)
   - **Coding:**  
 
 | Value | Description |
 | --- | --- |
 | `[.406409, 61.502129]` | Numeric |
 
-  - **Note**: This was not measured in 2010.
+  - **Note**: This was not measured in 2010. Additionally, data was imputed using CCES, due to no SPAE in 2018. See methodology update for more information
 
 ----------------
 
