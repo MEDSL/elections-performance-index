@@ -3,15 +3,15 @@
 
 #### MIT Election and Data Science Lab
 
-#### Cameron Wimpy 
+#### Jack Williams
 
-The data file `epi_indicators-all_years` contains all of the non-normalized indicator scores for the [Elections Performance Index](https://elections.mit.edu/) (EPI). These scores are produced through a large data collection and cleaning effort as part of the overall development of the EPI. More information on that process can be found in the [EPI Methodology Report](https://elections.mit.edu/2016-epi-methodology.pdf). 
+The data file `epi_indicators-all_years` contains all of the non-normalized indicator scores for the [Elections Performance Index](https://elections.mit.edu/) (EPI). These scores are produced through a large data collection and cleaning effort as part of the overall development of the EPI. More information on that process can be found in the [EPI Methodology Report](https://elections.mit.edu/2016-epi-methodology.pdf).
 
-The data file `epi_index_2016` contains the EPI scores for 2016. Previous calculations were conducted by the Pew Charitable Trusts and can be found on on the [EPI website](https://elections.mit.edu).
+The data file `epi_index_2018` contains the EPI scores for 2018. Calculations before 2016 were conducted by the Pew Charitable Trusts and can be found on on the [EPI website](https://elections.mit.edu).
 
-Contact [Cameron Wimpy](mailto:wimpy@mit.edu) for any questions or to report errors. 
+Contact [Jack R. Williams](mailto:jackrw@mit.edu) for any questions or to report errors.
 
-## Codebook for `epi_indicators-all_years` dataset 
+## Codebook for `epi_indicators-all_years` dataset
 The variables are listed as they appear in the data file.  
 
 
@@ -19,7 +19,7 @@ The variables are listed as they appear in the data file.
  - **Description**: state abbreviation
 
  ---------------
-  
+
 ### `state_fips`
  - **Description**: State FIPS code
 
@@ -27,13 +27,13 @@ The variables are listed as they appear in the data file.
 
 ### `year`
  - **Description**: election year corresponding to EPI indicators
- 
+
 ---------------
- 
+
 ### `website_pollingplace`
  - **Description**: Can you look up your polling place online?
  - **Source**: MIT Election and Data Science Lab coding of state policies
- - **Coding**: 
+ - **Coding**:
 
 | Value | Description |
 | --- | --- |
@@ -45,7 +45,7 @@ The variables are listed as they appear in the data file.
 ### `website_reg_status`
  - **Description**: Can you look up your voter registration status online?
  - **Source**: MIT Election and Data Science Lab coding of state policies
- - **Coding**: 
+ - **Coding**:
 
 | Value | Description |
 | --- | --- |
@@ -195,7 +195,7 @@ The variables are listed as they appear in the data file.
 ----------------
 
 ### `post_election_audit`
-  - **Description**: 
+  - **Description**:
   - **Source:** MIT Election and Data Science Lab coding of state policies
   - **Coding:** Post-election audit required
 
@@ -296,5 +296,5 @@ The variables are listed as they appear in the data file.
 
 ----------------
 
-## Version 
-- 20180910
+## Version
+- 20200819
